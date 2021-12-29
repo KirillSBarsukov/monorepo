@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "@avetti/footer",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@KirillSBarsukov"
+    "registry": "https://npm.pkg.github.com/KirillSBarsukov"
   },
   "repository": "https://github.com/KirillSBarsukov/monorepo"
 }
