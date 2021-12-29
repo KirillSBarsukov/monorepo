@@ -12,5 +12,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/KirillSBarsukov"
   },
-  "repository": "https://github.com/KirillSBarsukov/monorepo"
+  "repository": "https://github.com/KirillSBarsukov/monorepo",
+  "gitHead": "05649857275456a2447af29b0c71716caf9d6226"
 }
