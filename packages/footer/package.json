@@ -1,5 +1,5 @@
 {
-  "name": "@avetti/footer",
+  "name": "KirillSBarsukov/footer",
   "version": "2.0.3",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,5 @@
     "registry": "https://npm.pkg.github.com/KirillSBarsukov"
   },
   "repository": "https://github.com/KirillSBarsukov/monorepo",
-  "gitHead": "8a8f416c248f4ca86c1dccfc127237caf43e99f8"
+  "gitHead": "2e327b2c8903f816dbbd78c4aa1e5af741d7e1cf"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@avetti/copyright",
+  "name": "KirillSBarsukov/copyright",
   "version": "2.0.4",
   "description": "",
   "main": "index.js",
@@ -20,5 +20,5 @@
     "@mui/material": "^5.2.6",
     "react": "^17.0.2"
   },
-  "gitHead": "8a8f416c248f4ca86c1dccfc127237caf43e99f8"
+  "gitHead": "2e327b2c8903f816dbbd78c4aa1e5af741d7e1cf"
 }
